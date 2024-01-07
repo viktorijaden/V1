@@ -1,0 +1,22 @@
+﻿  files.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+  main.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\mushroomish\Documents\PROGRAMMING\sistem_pirmas\sisteminis_pirmas_sav\main.cpp(66,16): warning C4778: 'printf' : unterminated format string '%\n'
+C:\Users\mushroomish\Documents\PROGRAMMING\sistem_pirmas\sisteminis_pirmas_sav\main.cpp(72,20): warning C4778: 'printf' : unterminated format string '%\n'
+  mylib.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\mushroomish\Documents\PROGRAMMING\sistem_pirmas\sisteminis_pirmas_sav\mylib.cpp(55,64): warning C4244: 'return': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mushroomish\Documents\PROGRAMMING\sistem_pirmas\sisteminis_pirmas_sav\mylib.cpp(59,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mushroomish\Documents\PROGRAMMING\sistem_pirmas\sisteminis_pirmas_sav\mylib.cpp(60,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mushroomish\Documents\PROGRAMMING\sistem_pirmas\sisteminis_pirmas_sav\mylib.cpp(63,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mushroomish\Documents\PROGRAMMING\sistem_pirmas\sisteminis_pirmas_sav\mylib.cpp(64,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 526 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sisteminis_pirmas_sav.vcxproj -> C:\Users\mushroomish\Documents\PROGRAMMING\sistem_pirmas\sisteminis_pirmas_sav\x64\Release\sisteminis_pirmas_sav.exe

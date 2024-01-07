@@ -1,0 +1,5 @@
+﻿  main.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\mushroomish\Documents\PROGRAMMING\sistem_pirmas\sisteminis_pirmas_sav\main.cpp(68,16): warning C4778: 'printf' : unterminated format string '%\n'
+C:\Users\mushroomish\Documents\PROGRAMMING\sistem_pirmas\sisteminis_pirmas_sav\main.cpp(74,20): warning C4778: 'printf' : unterminated format string '%\n'
+  sisteminis_pirmas_sav.vcxproj -> C:\Users\mushroomish\Documents\PROGRAMMING\sistem_pirmas\sisteminis_pirmas_sav\x64\Debug\sisteminis_pirmas_sav.exe
