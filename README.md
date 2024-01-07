@@ -1,7 +1,4 @@
-# V1
-pirmas sisteminio savarankiškas darbas.
-
-Trumpas darbo aprašas:
+Trumpas darbo aprašas V1:
 Galutinė v0.1 versija pilnai veikia ir turi setup installerį.
 Pati programa trūkumų turi, kurie su laiku bus pataisyti arba pakeisti į ką nors kito,
 tačiau šiuo metu galima atlikti šiuos pagrindinius veiksmus:
